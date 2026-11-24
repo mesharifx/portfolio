@@ -47,7 +47,7 @@ Pick a month and every KPI updates against its target: revenue, margins, CAC, ch
 ![KPI Dashboard](images/kpi-dashboard.png)
 
 **3-Statement Financial Model — 5-year projection**
-Income statement, balance sheet and cash flow fully linked and always balanced, with scenarios, 15 ratios and DCF valuation.
+Income statement, balance sheet and cash flow fully linked and always balanced, with scenarios, 14 ratios and DCF valuation.
 
 ![3-Statement Financial Model](images/financial-model-summary.png)
 
